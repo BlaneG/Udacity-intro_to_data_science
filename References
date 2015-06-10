@@ -1,0 +1,32 @@
+References:  Project 1
+
+Lesson 2
+-default values for NaN entries:
+http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.fillna.html
+-shift dataframe column up one:
+http://stackoverflow.com/questions/20095673/python-shift-column-in-pandas-dataframe-up-by-one
+-datetime objects:
+https://docs.python.org/2/library/datetime.html#datetime.datetime
+-datetime types:
+https://docs.python.org/2/library/datetime.html#available-types
+
+Lesson 3
+-useful pyplot tutorial for graphing:
+http://matplotlib.org/users/pyplot_tutorial.html
+-calculating the coefficient of determination:
+http://en.wikipedia.org/wiki/Coefficient_of_determination
+-statsmodels formulas using the patsy formula language to convert formulas and data to matrices
+http://statsmodels.sourceforge.net/devel/example_formulas.html
+-categorical variables:
+from wikipedia, citing Yates, Moore and Starn (2003) a categorical variable "is a variable 
+	#that can take on one of a limited, and usually fixed, number of possible values, thus 
+	#assigning each individual to a particular group or "category.""
+
+Lesson 4
+-date formatting for datetime
+http://strftime.org/
+-sorting dataframe
+#https://piazza.com/class/i23uptiifb6194?cid=254
+
+Lesson 5
+N/A
